@@ -24,8 +24,7 @@ display: flex;
 
 .SearchForm-button {
     display: block;
-      margin: 0 auto;
-      margin-bottom: 20px;
+      margin: 20 auto;
       padding: 10px 25px;
       font-weight: 500;
       font-size: 18px;
